@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi there It's me SHASHWAT TYAGI👋</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
