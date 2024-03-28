@@ -3,19 +3,20 @@
 
 <p align="right"> <img src="https://user-images.githubusercontent.com/50301680/97795237-bfadb000-1c29-11eb-9720-04dc0c335f76.gif" width="250px" height="250px" alt="shashwattyagi13" /> </p>
 
-- 🔭 I’m currently working on Full Stack Web Development projects using Spring, SpringBoot.
-- 🌱 I’m currently learning  **Spring, SpringBoot, MERN, Data Structure, Web application**.<br>
-- 🧗🏾‍♀️ I try to: Go beyond and push the bounds and explore your potentials<br>
+- 🔭 I’m working on Frontend Development projects using Typescript, ReactJS, and NextJS.
+- 🌱 I was learning  **MERN, JavaScript, Spring Boot, Data Structure, Web application**.<br>
+- 🧗🏾‍♀️ I try to: Go beyond and push the bounds and explore your potential <br>
 - 🔭 I’m currently working on to improve my **Problem Solving Skills**<br>
 -🤔 I'm looking for help to improve my competitive programming skills<br>
--👯 I'll look forward to learn AWS, Amazon S3 and to do more side Hustles...<br>
+-👯 I'll look forward to learn AWS, Amazon S3, Docker and to do more side Hustles...<br>
 -⚡ Fun fact: Coding and Development over songs else find me active on social media.<br>
 
 - 👨‍💻 All of my projects are available at [https://github.com/shashwattyagi13](https://github.com/shashwattyagi13)
 
-- 💬 Ask me about **DSA, Java, OOPS, JavaScript, C, Web Developement, Wordpress, Digital Marketing, DBMS, CN, OS**
+- 💬 Ask me about **DSA, OOPS, JavaScript, MySQL, Java, Web Development, WordPress, Digital Marketing, DBMS, CN, OS**
 
-- 🔭 I've also created my sports and Fitness related site in Digital Marketing.
+- 🔭 I've also created my sports and Fitness-related site in Digital Marketing and
+  also worked on an IOT-related project i.e., a Library Stacking Device in the 1st, and 2nd Year of University.
 
 - 📫 How to reach me **shashwattyagi988gmail.com**
 
@@ -39,11 +40,15 @@
 
 
 <br><br>
-I am technology enthusiast love to do creative things and learn new updates in technology field and upgrade my skills. I am always willing to learn different technologies with full excitement and enthusiasm. I am a tech-friendly person and I am having a good knowledge of programming languages like C, Java, and Python. I like web development and I am skilled in making responsive websites.
+With a fervor for digital creativity and innovation, I have devoted my career to translating online visions into tangible realities. As a highly proficient designer, developer, and digital strategist, I derive satisfaction from crafting compelling and user-centric websites that not only fulfill business objectives but also leave a lasting impression on the audience.
 
-My areas of interest are Web development, Artificial Intelligence and App development. I am also interested in Sports, travel, innovation, volunteering, designing and developing software for different solutions.
+In addition to my professional background, I have gained valuable experience as a freelancer, notably contributing to projects and displaying them on my website i.e. https://www.webelevatepro.com/. This experience has further honed my skills in navigating diverse projects and collaborating effectively with clients to bring their digital aspirations to life.
 
-I am a student who want to explore his potential and willing to learn new technologies and enjoy solving practical problems with innovative, usable and aesthetically pleasing solutions, I can quickly pick learning-curve for new developments . Therefore this habit of constantly learning and never give up attitude urges me to do new things and motivates me to do something new for society with the help of Technology. <br><br>
+I am a dedicated technology enthusiast with an unwavering commitment to staying abreast of the latest developments in the field. My proactive mindset and enthusiasm for continuous learning extend to various programming languages such as Java and JavaScript, complemented by expertise in frameworks like ReactJS, Next.js, and NodeJS with MySQL and MongoDB as databases. Specializing in Full Stack Development, I excel in the creation of responsive and dynamic websites.
+
+My professional journey encompasses a valuable internship at Highradius and a fulfilling tenure at the startup "Swirl." In these roles, I served as both an individual contributor and later as the Head of a pod, navigating a dynamic and fast-paced agile environment. These experiences have endowed me with versatile skills applicable to companies of varying scales.
+
+Fueled by genuine curiosity and a commitment to problem-solving, I am eager to explore and leverage my potential in new technologies. My consistent dedication to learning curves makes me an adaptable candidate capable of providing valuable support across diverse IT divisions. I take pride in delivering innovative, functional, and aesthetically pleasing solutions to practical challenges. Enthusiastic about contributing to and thriving in dynamic professional environments, I am poised to make a meaningful impact in my future endeavors. <br><br>
 
 Happy coding !!
 
