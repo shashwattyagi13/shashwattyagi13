@@ -7,7 +7,6 @@
 - 🌱 I was learning  **MERN, JavaScript, Spring Boot, Data Structure, Web application**.<br>
 - 🧗🏾‍♀️ I try to: Go beyond and push the bounds and explore your potential <br>
 - 🔭 I’m currently working on to improve my **Problem Solving Skills**<br>
--🤔 I'm looking for help to improve my competitive programming skills<br>
 -👯 I'll look forward to learn AWS, Amazon S3, Docker and to do more side Hustles...<br>
 -⚡ Fun fact: Coding and Development over songs else find me active on social media.<br>
 
@@ -42,13 +41,13 @@
 <br><br>
 With a fervor for digital creativity and innovation, I have devoted my career to translating online visions into tangible realities. As a highly proficient designer, developer, and digital strategist, I derive satisfaction from crafting compelling and user-centric websites that not only fulfill business objectives but also leave a lasting impression on the audience.
 
-In addition to my professional background, I have gained valuable experience as a freelancer, notably contributing to projects and displaying them on my website i.e. https://www.webelevatepro.com/. This experience has further honed my skills in navigating diverse projects and collaborating effectively with clients to bring their digital aspirations to life.
+My professional journey began with valuable experience as a freelancer, where I contributed to diverse projects and showcased them on my website, webelevatepro.com. This phase honed my ability to navigate various projects and collaborate effectively with clients to bring their digital aspirations to life.
 
-I am a dedicated technology enthusiast with an unwavering commitment to staying abreast of the latest developments in the field. My proactive mindset and enthusiasm for continuous learning extend to various programming languages such as Java and JavaScript, complemented by expertise in frameworks like ReactJS, Next.js, and NodeJS with MySQL and MongoDB as databases. Specializing in Full Stack Development, I excel in the creation of responsive and dynamic websites.
+Driven by an unwavering commitment to staying ahead of the curve, I have immersed myself in various programming languages such as Java and TypeScript, complemented by expertise in frameworks like ReactJS, Next.js, and NodeJS, with MySQL and MongoDB as databases. I specialize in Full Stack Development and excel in creating responsive and dynamic Web Apps and Websites.
 
-My professional journey encompasses a valuable internship at Highradius and a fulfilling tenure at the startup "Swirl." In these roles, I served as both an individual contributor and later as the Head of a pod, navigating a dynamic and fast-paced agile environment. These experiences have endowed me with versatile skills applicable to companies of varying scales.
+My career path includes a valuable internship at "Highradius" and a fulfilling tenure at the startup "Swirl," where I evolved from an individual contributor to the Head of a pod in a fast-paced, agile environment. Following my freelancing career, I joined the startup "Protocol Zone Pvt Ltd" as a front-end developer, further advancing my skills in front-end technologies.
 
-Fueled by genuine curiosity and a commitment to problem-solving, I am eager to explore and leverage my potential in new technologies. My consistent dedication to learning curves makes me an adaptable candidate capable of providing valuable support across diverse IT divisions. I take pride in delivering innovative, functional, and aesthetically pleasing solutions to practical challenges. Enthusiastic about contributing to and thriving in dynamic professional environments, I am poised to make a meaningful impact in my future endeavors. <br><br>
+Fueled by curiosity and a passion for problem-solving, I am eager to explore new technologies and consistently push the boundaries of my expertise. My adaptable nature and commitment to continuous learning enable me to provide valuable support across diverse IT divisions. I take pride in delivering innovative, functional, and aesthetically pleasing solutions to practical challenges and am enthusiastic about making a meaningful impact in dynamic professional environments. <br><br>
 
 Happy coding !!
 
