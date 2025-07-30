@@ -9,7 +9,7 @@ I’m a Frontend Developer with 2+ years of experience transforming creative dig
 
 - 👨‍💻 All of my projects are available at [https://github.com/shashwattyagi13](https://github.com/shashwattyagi13)
 
-- 💬 Ask me about **DSA, Typescript, JavaScript, React, MySQL, Web Development, WordPress, Digital Marketing, DBMS, CN, OS**
+- 💬 Ask me about **DSA, Typescript, JavaScript, React, NextJS, MySQL, Web Development, WordPress, Digital Marketing, DBMS**
 
 - 🔭 I've also created my sports and Fitness-related site in Digital Marketing and
   also worked on an IOT-related project i.e., a Library Stacking Device in the 1st, and 2nd Year of University.
